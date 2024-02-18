@@ -1,16 +1,22 @@
 # main links links
 main:
-  - title: "Woodworking"
-    url: https://www.rachelcollet.com/Galleries/Architectureanddesign/Don-wood-work/n-NM8fgw
+  - title: "Publications"
+    url: /publications/
 
-  - title: "Courses"
-    url: /courses/    
+  - title: "Talks"
+    url: /talks/    
+
+  - title: "Teaching"
+    url: /teaching/    
     
-  - title: "Games/OCTII"
-    url: https://boardgamegeek.com/boardgamedesigner/229/don-green-i
+  - title: "Portfolio"
+    url: /portfolio/
+        
+  - title: "Blog Posts"
+    url: /year-archive/
     
   - title: "CV"
     url: /cv/
     
-  - title: "Books"
-    url: https://www.amazon.com/stores/Donald-P.-Green/author/B001HCVQEY
+  - title: "Guide"
+    url: /markdown/
