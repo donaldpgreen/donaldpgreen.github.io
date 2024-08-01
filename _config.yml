@@ -11,7 +11,7 @@ title                    : "Donald P. Green"
 title_separator          : "-"
 name                     : &name ""
 description              : &description "Professor"
-url                      : https://donaldpgreen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://donaldgreen.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "donaldpgreen/donaldpgreen.github.io"
 
